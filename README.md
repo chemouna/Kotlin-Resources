@@ -22,6 +22,7 @@ To Aggregate resources to learn and understand Kotlin
 
 ## Comparison of Kotlin with other languages 
 * [Exploring Kotlin (vs Groovy)](http://blog.cacoethes.co.uk/software/exploring-kotlin)
+*  [Scala vs Ceylon vs Kotlin](http://blog.lunatech.com/2011/08/24/scala-ceylon-kotlin-goals)
 
 ## Kotlin with Android 
 * [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1#heading=h.96ldte2znfpc) by [Jake Wharton](https://github.com/JakeWharton)
