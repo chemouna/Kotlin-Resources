@@ -15,6 +15,8 @@ To Aggregate resources to learn and understand Kotlin
 * [Type Checks and Casts](https://kotlinlang.org/docs/reference/typecasts.html)
 * [Properties and Fields](https://kotlinlang.org/docs/reference/properties.html)
 * [Multi-Declarations](https://kotlinlang.org/docs/reference/multi-declarations.html)
+* [Generics](https://kotlinlang.org/docs/reference/generics.html)
+* 
 
 ## Quick Start
 * [Kotlin Cheat sheet Part 1](https://gist.github.com/dodyg/5823184)
@@ -33,12 +35,14 @@ To Aggregate resources to learn and understand Kotlin
 * [Kotterknife - Butterknife for kotling: View "injection" library for Android]
  (https://github.com/JakeWharton/kotterknife)
 * [Anko : A DSL for writing Android layouts](https://github.com/JetBrains/anko)
-
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 
 ## Kotlin examples 
 * [Kotlin workshop by JetBrains](https://github.com/JetBrains/workshop-jb)
 * [Example of Android project showing integration with Kotlin and Dagger 2](https://github.com/damianpetla/kotlin-dagger-example)
+* [Musical - kotlin sample application](https://github.com/tommykw/Musical)
 
+ 
 ## Android apps built with Kotlin on Github
 * [Kotlin examples from JetBrains](https://github.com/JetBrains/kotlin-example)
 * [Blood sugar tracking App for Android](https://github.com/nlefler/Glucloser)
