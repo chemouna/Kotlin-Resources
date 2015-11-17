@@ -41,7 +41,7 @@ To Aggregate resources to learn and understand Kotlin
 * [Kotlin workshop by JetBrains](https://github.com/JetBrains/workshop-jb)
 * [Example of Android project showing integration with Kotlin and Dagger 2](https://github.com/damianpetla/kotlin-dagger-example)
 * [Musical - kotlin sample application](https://github.com/tommykw/Musical)
-
+* [Andoid app with Kotlin and MVP](https://github.com/michaldrabik/KotlinMVP)
  
 ## Android apps built with Kotlin on Github
 * [Kotlin examples from JetBrains](https://github.com/JetBrains/kotlin-example)
