@@ -36,6 +36,7 @@ To Aggregate resources to learn and understand Kotlin
  (https://github.com/JakeWharton/kotterknife)
 * [Anko : A DSL for writing Android layouts](https://github.com/JetBrains/anko)
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin)
+* [Kotgo : An android development framework on kotlin using MVP architecture](https://github.com/nekocode/kotgo)
 
 ## Kotlin examples 
 * [Kotlin workshop by JetBrains](https://github.com/JetBrains/workshop-jb)
