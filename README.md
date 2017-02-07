@@ -16,7 +16,7 @@ To Aggregate resources to learn and understand Kotlin
 * [Properties and Fields](https://kotlinlang.org/docs/reference/properties.html)
 * [Multi-Declarations](https://kotlinlang.org/docs/reference/multi-declarations.html)
 * [Generics](https://kotlinlang.org/docs/reference/generics.html)
-* 
+* [Improved Pattern Matching in Kotlin](https://programmingideaswithjake.wordpress.com/2016/08/27/improved-pattern-matching-in-kotlin/)
 
 ## Quick Start
 * [Kotlin Cheat sheet Part 1](https://gist.github.com/dodyg/5823184)
